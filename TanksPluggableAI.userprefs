@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{F2FC2577-8511-48B1-E2D4-25B59C593AFE}|">
+  <MonoDevelop.Ide.ItemProperties.TanksPluggableAI PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Tanks/_Completed-Assets/Scripts/Tank/BasicAI.cs">
+    <Files>
+      <File FileName="Assets/Tanks/_Completed-Assets/Scripts/Tank/BasicAI.cs" Line="46" Column="30" />
+      <File FileName="Assets/Tanks/_Completed-Assets/Scripts/Tank/VRMovement.cs" Line="66" Column="19" />
+      <File FileName="Assets/Tanks/_Completed-Assets/Scripts/Managers/GameManager.cs" Line="60" Column="19" />
+      <File FileName="Assets/Tanks/_Completed-Assets/Scripts/Managers/TankManager.cs" Line="31" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
